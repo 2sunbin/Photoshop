@@ -18,6 +18,7 @@ Shortcut key
 
 --
 --
+
 정보
 
 저장 
