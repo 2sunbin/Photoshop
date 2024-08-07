@@ -1,4 +1,5 @@
 
+Shortcut key
 - 선택한 레이어 병합(원본x): ctrl e 
 - 선택한 레이어 병합(원본o): ctrl alt e
 - 눈켜진 레이어 병합(원본x): ctrl shift e
@@ -13,6 +14,14 @@
 
 - 선택영역 반전: ctrl shift i
 - 색상 반전: ctrl i
-- 선택영역 그리다가 클릭한 거 마음에 안 들면: delete
-- 선택영역 그리다가 클릭한 거 다 마음에 안 들면: esc
 - 선택영역 잘라내서 새로운 레이어로 복사: ctrl shift j
+
+--
+--
+정보
+
+저장 
+File → Export → Export As 또는 Save for Web
+PNG: 투명하게 저장
+JPG: 사진 저장
+GIF: 움직이는 거 저장
