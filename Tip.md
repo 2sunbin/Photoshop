@@ -15,8 +15,8 @@ Shortcut key
 - 선택영역 반전: ctrl shift i
 - 색상 반전: ctrl i
 - 선택영역 잘라내서 새로운 레이어로 복사: ctrl shift j
+  
 
---
 --
 
 정보
