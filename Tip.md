@@ -17,9 +17,11 @@
 
 <br>
 
-- 선택영역 반전: ctrl shift i
+- 선택 영역 반전: ctrl shift i
 - 색상 반전: ctrl i
-- 선택영역 잘라내서 새로운 레이어로 복사: ctrl shift j
+- 선택 영역 다른 레이어에 복사 ctrl j
+- 선택 영역 잘라내서 다른 레이어로 복사: ctrl shift j
+
   
 
 <br><hr>
@@ -34,3 +36,7 @@
 
 ## 필터갤러리
 - 필터를 여러 개 줄 때 밑에 있는 것 부터 쌓임
+
+## select and mask
+- 동물의 털이나 사람의 머리카락을 추출할 때 사용
+- View를 Overlay로 설정, Indicates를 Selected Areas로 설정해서 원하는 부분 Refine Edge Brush Tool로 따기 
